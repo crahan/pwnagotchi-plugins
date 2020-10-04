@@ -14,6 +14,8 @@ To use these plugins, clone this repository to your Pwnagotchi and point `main.c
 
 ## gps-plus
 
+![gps-plus example](photos/gps-plus.png)
+
 New features:
 - add `position` configuration option
 - add `linespacing` configuration option
@@ -29,6 +31,8 @@ main.plugins.memtemp-plus.linespacing = 12
 ```
 
 ## memtemp-plus
+
+![memtemp-plus example](photos/memtemp-plus.png)
 
 New features:
 - add `position` configuration option
