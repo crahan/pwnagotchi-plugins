@@ -10,7 +10,7 @@ If you still want to use this code but you're not using a Waveshare v2 e-ink dis
 
 ## Installation
 
-To use these plugins, clone this repository to your Pwnagotchi and point `main.custom_plugins` in `/etc/pwnagotchi/config.toml` to the repository folder. Please note that the plugins in this repository are named `memtemp-plus` and `gps-plus` so they don't interfere with the default plugins included with the Pwnagotchi code.
+To use these plugins, clone or copy this repository to your Pwnagotchi and point `main.custom_plugins` in `/etc/pwnagotchi/config.toml` to the repository folder. Please note that the plugins in this repository are named `memtemp-plus` and `gps-plus` so they don't interfere with the default plugins included with the Pwnagotchi code.
 
 ## gps-plus
 
