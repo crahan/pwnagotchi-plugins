@@ -19,7 +19,7 @@ To use these plugins, clone this repository to your Pwnagotchi and point `main.c
 New features:
 - add `position` configuration option
 - add `linespacing` configuration option
-- set defaults to properly align with memtemp-plus plugin output
+- set defaults to properly align with `memtemp-plus` plugin output
 
 Sample configuration:
 ```
@@ -39,7 +39,7 @@ New features:
 - add `linespacing` configuration option
 - new `freq` CPU frequenty field
 - option to configure up to 3 fields with a custom order (i.e. mem, cpu, temp, and freq)
-- set defaults to properly align with gps-plus plugin output
+- set defaults to properly align with `gps-plus` plugin output
 
 Sample configuration:
 ```
