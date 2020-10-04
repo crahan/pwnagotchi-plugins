@@ -1,0 +1,16 @@
+#Ignore vscode individual settings
+.vscode
+
+#Ignore egg-info files and folders
+*.egg-info
+*.pyc
+
+#Ignore pyenv version files
+.python-version
+
+#Ignore build and dist folders
+build/*
+dist/*
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
