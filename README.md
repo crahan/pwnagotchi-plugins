@@ -1,4 +1,4 @@
-# pwnagotchi-plugins
+# Pwnagotchi plugins
 
 ## Introduction
 
