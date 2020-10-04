@@ -32,7 +32,7 @@ main.plugins.memtemp-plus.linespacing = 12
 
 ## memtemp-plus
 
-![memtemp-plus example](https://github.com/crahan/pwnagotchi-plugins/blob/main/photos/memtemp-plus.png)
+![memtemp-plus example](https://github.com/crahan/pwnagotchi-plugins/blob/main/photos/memtemp-plus.jpg)
 
 New features:
 - add `position` configuration option
