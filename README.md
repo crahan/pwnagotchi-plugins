@@ -8,6 +8,8 @@ The idea behind pull requests https://github.com/evilsocket/pwnagotchi/pull/918 
 
 If you still want to use this code and you're not using a Waveshare v2 e-ink display or the fallback values don't work for you, I recommend using the new `position` and `linespacing` configuration properties to tweak the default position setting. Feel free to submit a pull request with some sane defaults for your display though, so I can update the code accordingly.
 
+## Installation
+
 To use these plugins, clone this repository to your Pwnagotchi and point `main.custom_plugins` in `/etc/pwnagotchi/config.toml` to the repository folder. Please note that the plugins in this repository are named `memtemp-plus` and `gps-plus` so they don't interfere with the default plugins included with the Pwnagotchi code.
 
 ## gps-plus
