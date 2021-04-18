@@ -2,6 +2,8 @@
 
 ## Introduction
 
+**Update 2021-04-18**: both pull requests ([#918](https://github.com/evilsocket/pwnagotchi/pull/918) and [#919](https://github.com/evilsocket/pwnagotchi/pull/919)) have now been merged into the main [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) codebase.
+
 These are customized versions of the GPS and Memtemp Pwnagotchi plugins and include the functionality introduced in [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) pull requests [#918](https://github.com/evilsocket/pwnagotchi/pull/918) and [#919](https://github.com/evilsocket/pwnagotchi/pull/919) (pending approval). The plugin versions in this repo are more tailored to my specific use case/liking (e.g. different line spacing defaults) and only include default position values for the Waveshare v2 e-ink display (i.e. hardware I can properly test).
 
 The idea behind pull requests [#918](https://github.com/evilsocket/pwnagotchi/pull/918) and [#919](https://github.com/evilsocket/pwnagotchi/pull/919) is to better align the positioning and line spacing of the `gps` and `memtemp` plugins (as I use these together) and to provide additional configuration options to tweak their output (e.g. `position`, `linespacing`).
